@@ -1,0 +1,9 @@
+# macos
+.DS_Store
+
+# emacs
+*~
+\#*\#
+
+# jupyter notebook
+.ipynb_checkpoints
